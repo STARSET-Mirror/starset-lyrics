@@ -40,8 +40,8 @@
 
 ## Translation Languages 
 
-- [x] Simplified Chinese(./zh-CN)
-- [ ] Traditional Chinese
+- [x] [Simplified Chinese](./zh-CN)
+- [x] [Traditional Chinese](./zh-TW)
 
 Each language may have multiple translations of the same song, one of which will be selected as the default translation.
 
